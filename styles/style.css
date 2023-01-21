@@ -1,0 +1,39 @@
+html {
+    font: normal 16px/20px Arial, sans-serif;
+}
+
+
+/*body {
+    border: 2px dotted;
+    border-radius: 1%;
+}*/
+
+h1 {
+    color: #2E3B0B;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+.start p {
+    font-weight: bold;
+}
+
+.about span {
+    font: bolder 18px Arial, sans-serif;
+}
+
+h3 {
+    color: #61380B;
+}
+
+.why-web {
+    background-color: rgba(57, 59, 11, 0.3);
+}
+
+.why-web h3 {
+    text-decoration: underline;
+}
+
+.why-web span {
+    font: bolder 16px Arial, sans-serif;
+}
